@@ -48,10 +48,13 @@ Contributions are welcome! To contribute:
   ``` python calculator.py ```
 
 ## Example Output:
+
 ``` 16 + 4 = 20
 16 - 4 = 12
 16 * 4 = 64
 16 / 4 = 4.0
-The square root of 25 = 5.0 ```
+The square root of 25 = 5.0
+```
+
 
 ![image](https://github.com/user-attachments/assets/a4371f35-72fc-47dd-a902-7fbc3ecac3b7)
