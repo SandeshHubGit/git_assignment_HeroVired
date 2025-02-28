@@ -8,8 +8,15 @@ class Calculator:
         return a * b
     def divide(self, a, b):
         return a / b
+<<<<<<< HEAD
     def square_root(self, x):
         return math.sqrt(x)
+=======
+    def divide(self, a, b):
+        if b == 0:
+            raise ValueError("Cannot divide by zero.")
+        return a / b
+>>>>>>> dev
 
 if __name__ == "__main__":
 
