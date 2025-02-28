@@ -15,10 +15,7 @@ class Calculator:
         if b == 0:
             raise ValueError("Cannot divide by zero.")
         return a / b
-<<<<<<< HEAD
 
-=======
->>>>>>> 71df22a8cb4eebe9dabd8def7f60746f186057e5
 if __name__ == "__main__":
     calculator = Calculator()
     num1 = 16
